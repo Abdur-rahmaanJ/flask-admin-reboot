@@ -1,11 +1,8 @@
-Flask-Admin
-===========
+Flask-Admin-Reboot
+==================
 
-The project was recently moved into its own organization. Please update your
-references to *git@github.com:flask-admin/flask-admin.git*.
-
-.. image:: https://d322cqt584bo4o.cloudfront.net/flask-admin/localized.svg
-	:target: https://crowdin.com/project/flask-admin
+The aim is to stay compatible with the original Flask-Admin while enabling contributors to contribute to their 
+favorite framework. Community version of Flask-Admin. Same spirit as Flask-reuploaded.
 
 .. image:: https://github.com/flask-admin/flask-admin/actions/workflows/test.yaml/badge.svg
 	:target: https://github.com/flask-admin/flask-admin/actions/workflows/test.yaml
